@@ -1,0 +1,41 @@
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.deps.json
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.dll
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.pdb
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.pdb
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.xml
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csprojAssemblyReference.cache
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csproj.CoreCompileInputs.cache
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.AssemblyInfoInputs.cache
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.AssemblyInfo.cs
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csproj.CopyComplete
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.dll
+C:\Projects\BusinessAdmin\ba.app.back.v1.0.0\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.pdb
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.deps.json
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.dll
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.pdb
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.pdb
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.xml
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csprojAssemblyReference.cache
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csproj.CoreCompileInputs.cache
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.AssemblyInfoInputs.cache
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.AssemblyInfo.cs
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csproj.CopyComplete
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.dll
+C:\NETCORE Y JWT SCAFFOLD PROJECT\netcore.jwt.template\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.pdb
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.AssemblyInfo.cs
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.dll
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\obj\Debug\netcoreapp2.2\DomainCore.pdb
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.deps.json
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.dll
+C:\Users\DELL\Desktop\jwtapiexample\NetCoreJWT\DomainCore\bin\Debug\netcoreapp2.2\DomainCore.pdb
